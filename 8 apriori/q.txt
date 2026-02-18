@@ -1,0 +1,8 @@
+Association Rule Generation using Apriori Algorithm
+Perform the following 
+Load Kaggle dataset "Market basket"
+Preprocess the data
+Apply apriori algorithm
+Generate assosiation rule
+Sort rules by confidence
+Display top 10 association rules with antecedents, consequents, support, confidence, and  lift values.
